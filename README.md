@@ -2,3 +2,4 @@
 The e-sous is a curency wich work using a decentralized server network.
 
 ## !!! The e-sous is not stable yet !!!
+And also it wont work currenlty :)
